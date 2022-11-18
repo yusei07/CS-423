@@ -46,5 +46,3 @@ def main():
             break
 
 main()
-
-# sankyuu chris!
