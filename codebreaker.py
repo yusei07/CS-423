@@ -2,7 +2,7 @@ from random import randint
 
 print("CODEBREAKER\nGuess the 4-digit code!\n?-?-?-?")
 gen_code = randint(1000, 9999)
-print(gen_code)
+print(gen_code) # comment this to play
 
 attempts = 1
 while attempts < 13:
