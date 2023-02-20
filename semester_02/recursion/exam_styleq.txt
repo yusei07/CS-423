@@ -1,0 +1,25 @@
+1. 
+a) Recursion terminates when the base case is met. On the other hand, iteration terminates when the condition in the loop fails.
+
+b) One benefit that recursion offers is that in some cases it can reduce the time complexity
+of an algorithm, by breaking a problem down into smaller sub-problems that can be solved independently.
+However, recursion also comes with a trade off. Having repeated recursive calls can carry large amounts
+of memory usage and processor time, also leading to stack overflow.
+
+2.
+a) A recursively defined function or object that calls itself in its definition.
+
+b) trace
+
+c) Stack plays an essential role to the execution of the power function, as it stores the state of each function call,
+keeps track of the order in which calls are made, and executes the base case that'll stop the recursion.
+
+d) pseudocode
+
+e)
+
+3. 
+a) i) line 02
+    ii) line 06
+
+
